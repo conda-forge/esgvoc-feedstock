@@ -191,4 +191,5 @@ Feedstock Maintainers
 =====================
 
 * [@cofinoa](https://github.com/cofinoa/)
+* [@ltroussellier](https://github.com/ltroussellier/)
 

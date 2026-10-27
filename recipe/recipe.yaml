@@ -50,7 +50,7 @@ tests:
 about:
   homepage: https://esgf.github.io/esgf-vocab/
   summary: Python library and CLI to interact with WCRP CVs
-  license: CECILL-2.1
+  license: CECILL-C
   license_file: LICENSE.txt
   repository: https://github.com/ESGF/esgf-vocab
 

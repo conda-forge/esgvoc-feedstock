@@ -1,5 +1,5 @@
 context:
-  version: "7.1.0"
+  version: "7.2.0"
 
 package:
   name: esgvoc
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/esgvoc/esgvoc-${{ version }}.tar.gz
-  sha256: 6bb658bfa96b4fb73b6d6fb7c88703e7bbed1a58a48e2511b96564f061875679
+  sha256: 70f68debed11ff1620e6b812eecb07e49c12132ad1ef0e1bb0816267f4855b97
 
 build:
   noarch: python
@@ -50,7 +50,7 @@ tests:
 about:
   homepage: https://esgf.github.io/esgf-vocab/
   summary: Python library and CLI to interact with WCRP CVs
-  license: CECILL-2.1
+  license: CECILL-C
   license_file: LICENSE.txt
   repository: https://github.com/ESGF/esgf-vocab
 

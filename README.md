@@ -5,7 +5,7 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/esgvoc-feedstoc
 
 Home: https://esgf.github.io/esgf-vocab/
 
-Package license: CECILL-2.1
+Package license: CECILL-C
 
 Summary: Python library and CLI to interact with WCRP CVs
 

@@ -1,5 +1,5 @@
 context:
-  version: "7.2.0"
+  version: "7.3.0"
 
 package:
   name: esgvoc
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/e/esgvoc/esgvoc-${{ version }}.tar.gz
-  sha256: 70f68debed11ff1620e6b812eecb07e49c12132ad1ef0e1bb0816267f4855b97
+  sha256: 89c99d77f25c709f1b9984a8f100addb155b03f92201571dca4c3adae66ca887
 
 build:
   noarch: python
